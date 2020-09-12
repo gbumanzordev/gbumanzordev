@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there! 👋
+
+My name is Gerson Umanzor and I'm from El Salvador 💙.
+
+🔭 I'm currently working at Applaudo Studios as an Angular Developer.
+
+🌱 I’m currently learning Laravel and NestJS. I love reading articles and learning new stuff. You can check my repository collection and if you have suggestions make sure to leave comments or contact me.
+
+📫 You can reach me to gbumanzor.dev@gmail.com. I'm happy to help. 
+
+Kind regards 😊
 
 <!--
 **gbumanzor/gbumanzor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
