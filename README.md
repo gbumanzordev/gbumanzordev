@@ -8,6 +8,8 @@ My name is Gerson Umanzor and I'm from El Salvador 💙.
 
 📫 You can reach me to gbumanzor.dev@gmail.com. I'm happy to help. 
 
+![Gerson Umanzor Github Stats](https://github-readme-stats.vercel.app/api?username=gbumanzor&show_icons=true&hide_border=true)
+
 Kind regards 😊
 
 <!--
