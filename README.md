@@ -2,7 +2,7 @@
 
 My name is Gerson Umanzor and I'm from El Salvador 💙.
 
-🔭 I'm currently working at Applaudo Studios as an Angular Developer.
+🔭 I'm currently working at Applaudo Studios as a Frontend Developer.
 
 🌱 I’m currently learning Laravel and NestJS. I love reading articles and learning new stuff. You can check my repository collection and if you have suggestions make sure to leave comments or contact me.
 
