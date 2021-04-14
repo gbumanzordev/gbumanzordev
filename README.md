@@ -1,4 +1,4 @@
-### Hi there! 👋
+## Hi there! 👋
 
 My name is Gerson Umanzor and I'm from El Salvador 💙.
 
@@ -12,7 +12,7 @@ My name is Gerson Umanzor and I'm from El Salvador 💙.
 
 ![Gerson Umanzor's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbumanzordev&show_icons=true&theme=radical)
 
-[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gbumanzordev&hide=php,html)](https://github.com/gbumanzordev/github-readme-stats)
+[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gbumanzordev&hide=php,html&theme=radical)]
 
 Kind regards 😊
 
