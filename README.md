@@ -12,6 +12,8 @@ My name is Gerson Umanzor and I'm from El Salvador 💙.
 
 ![Gerson Umanzor Github Stats](https://github-readme-stats.vercel.app/api?username=gbumanzordev&show_icons=true&hide_border=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbumanzordev)](https://github.com/gbumanzordev/github-readme-stats)
+
 Kind regards 😊
 
 <!--
