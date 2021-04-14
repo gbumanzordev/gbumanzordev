@@ -10,7 +10,7 @@ My name is Gerson Umanzor and I'm from El Salvador 💙.
 
 [![Twitter](https://img.shields.io/twitter/follow/gbumanzordev.svg?style=social&label=@gbumanzordev)](https://twitter.com/gbumanzordev)
 
-![Gerson Umanzor Github Stats](https://github-readme-stats.vercel.app/api?username=gbumanzordev&show_icons=true&hide_border=true)
+![Gerson Umanzor's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbumanzordev&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbumanzordev)](https://github.com/gbumanzordev/github-readme-stats)
 
