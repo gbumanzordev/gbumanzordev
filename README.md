@@ -2,11 +2,11 @@
 
 My name is Gerson Umanzor and I'm from El Salvador 💙.
 
-🔭 I'm currently working at Applaudo Studios as a Frontend Developer.
+I'm currently working at Applaudo Studios as a Frontend Developer.
 
-🌱 I’m currently learning a bunch of Frontend and Backend Stuff (React, Laravel and NestJS). I love reading articles and learning new stuff. You can check my repository collection and if you have suggestions make sure to leave comments or contact me. I'm also trying to build reusable packages I believe the community can find useful.
+I’m currently reinforcing my Vue Skills (you can take a look at my portfolio [here](https://gbumanzordev.netlify.app)). I love reading articles and learning new stuff. You can check my repository collection and if you have suggestions make sure to leave comments or contact me. I'm also trying to build reusable packages I believe the community can find useful.
 
-📫 You can reach me to gbumanzor.dev@gmail.com. You can also submit pull requests to the packages I built to make improvements. You can also reach out in my social:
+You can reach me to gbumanzor.dev@gmail.com. You can also submit pull requests to the packages I built to make improvements. You can also reach out in my social:
 
 [![Twitter](https://img.shields.io/twitter/follow/gbumanzordev.svg?style=social&label=@gbumanzordev)](https://twitter.com/gbumanzordev)
 
