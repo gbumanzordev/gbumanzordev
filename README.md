@@ -10,7 +10,7 @@ You can reach me to gbumanzor.dev@gmail.com. You can also submit pull requests t
 
 [![Twitter](https://img.shields.io/twitter/follow/gbumanzordev.svg?style=social&label=@gbumanzordev)](https://twitter.com/gbumanzordev)
 
-![Gerson Umanzor's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbumanzordev&show_icons=true&hide=issues&custom_title=My%20GitHub%20Stats) ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gbumanzordev&hide=html,scss,blade,hack&langs_count=5&custom_title=Languages%20I%20have%20worked%20with&layout=compact)
+![Gerson Umanzor's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbumanzordev&show_icons=true&hide=issues&custom_title=My%20GitHub%20Stats) ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gbumanzordev&hide=html,scss,blade,hack&langs_count=4&custom_title=Languages%20I%20have%20worked%20with&layout=compact)
 
 Kind regards 😊
 
