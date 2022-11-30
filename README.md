@@ -2,9 +2,9 @@
 
 My name is Gerson Umanzor and I'm from El Salvador 💙.
 
-I'm currently working as a Senior Software Engineer using Angular.
+I'm currently working as a Staff Software Engineer using Angular.
 
-At the moment, I am reinforcing my Vue Skills (you can take a look at my portfolio [here](https://gbumanzordev.netlify.app)). I love reading articles and learning new stuff. You can check my repository collection and if you have suggestions make sure to leave comments or contact me. I'm also trying to build reusable packages I believe the community will find useful.
+At the moment, I am reinforcing my Front-End Skills (you can take a look at my portfolio [here](https://gbumanzordev.netlify.app)). I love reading articles and learning new stuff. You can check my repository collection and if you have suggestions make sure to leave comments or contact me. I'm also trying to build reusable packages I believe the community will find useful.
 
 If you have ideas to be implemented in the packages I have worked on, you can submit a pull request and I will review it as soon as I can.
 
