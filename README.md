@@ -8,7 +8,7 @@ At the moment, I am reinforcing my Front-End Skills (you can take a look at my p
 
 If you have ideas to be implemented in the packages I have worked on, you can submit a pull request and I will review it as soon as I can.
 
-You can reach me to gbumanzor.dev@gmail.com. You can also submit pull requests to the packages I built to make improvements. You can also reach out in my social:
+You can reach me to contact@gbumanzor.dev. You can also submit pull requests to the packages I built to make improvements. You can also reach out in my social:
 
 If you have any ideas, offers or anything else you'd like to talk to me about, do not hesitate to write an email or reach out in my social media:
 
