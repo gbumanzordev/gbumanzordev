@@ -2,15 +2,13 @@
 
 My name is Gerson Umanzor and I'm from El Salvador 💙.
 
-I'm currently working as a Staff Software Engineer using Angular.
+I'm currently working as a Software Engineer using Angular.
 
-At the moment, I am reinforcing my Front-End Skills (you can take a look at my blog [here](https://blog.gbumanzor.dev)). I love reading articles and learning new stuff. You can check my repository collection and if you have suggestions make sure to leave comments or contact me. I'm also trying to build reusable packages I believe the community will find useful.
+At the moment, I am reinforcing my Front-End Skills by learning Vue.js and React. I love reading articles and learning new stuff. You can check my repository collection and if you have suggestions make sure to leave comments or contact me. I'm also trying to build reusable packages I believe the community will find useful.
 
 If you have ideas to be implemented in the packages I have worked on, you can submit a pull request and I will review it as soon as I can.
 
-You can reach me to contact@gbumanzor.dev. You can also submit pull requests to the packages I built to make improvements. You can also reach out in my social:
-
-If you have any ideas, offers or anything else you'd like to talk to me about, do not hesitate to write an email or reach out in my social media:
+If you have any ideas, offers or anything else you'd like to talk to me about, do not hesitate to write an email to contact@gbumanzor.dev or reach out in my social media:
 
 [![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F-contact%40gbumanzor.dev-red)](mailto:contact@gbumanzor.dev)
 
@@ -18,7 +16,7 @@ If you have any ideas, offers or anything else you'd like to talk to me about, d
 
 ![Gerson Umanzor's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbumanzordev&show_icons=true&hide=issues&custom_title=My%20GitHub%20Stats) ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gbumanzordev&hide=html,scss,blade,hack,php,css&langs_count=4&custom_title=Languages%20I%20have%20worked%20with&layout=compact)
 
-Kind regards 😊
+Regards!
 
 <!--
 **gbumanzor/gbumanzor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
