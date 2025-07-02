@@ -8,7 +8,7 @@ At the moment, I am reinforcing my Front-End Skills by learning Vue.js and React
 
 If you have ideas to be implemented in the packages I have worked on, you can submit a pull request and I will review it as soon as I can.
 
-If you have any ideas, offers or anything else you'd like to talk to me about, do not hesitate to write an email to contact@gbumanzor.dev or reach out in my social media:
+If you have any ideas, offers or anything else you'd like to talk to me about, do not hesitate to write an email to gerson@gbumanzor.dev or reach out in my social media:
 
 [![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F-contact%40gbumanzor.dev-red)](mailto:contact@gbumanzor.dev)
 
